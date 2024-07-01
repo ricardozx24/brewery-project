@@ -36,10 +36,11 @@ body::before {
   width: 100%;
   z-index: -1;
   background: bisque;
-  background-image: conic-gradient(rgba(255,0,0,0.6), orange, yellow, green, rgba(0,0,255,0.6), rgba(75,0,130,0.6), violet);;
+  /* background-image: conic-gradient(rgba(255,0,0,0.6), orange, yellow, green, rgba(0,0,255,0.6), rgba(75,0,130,0.6), violet);; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-color: bisque;
 }
 
 h1 {
